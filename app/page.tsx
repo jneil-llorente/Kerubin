@@ -1,5 +1,6 @@
 import Hero from "./hero";
 import Navbar from "./navbar";
+import { Portfolio } from "./portfolio";
 import Trusted from "./trusted";
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
       <Navbar/>
       <Hero/>
       <Trusted/>
+      <Portfolio/>
     </div>
    );
 }

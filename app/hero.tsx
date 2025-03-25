@@ -115,9 +115,10 @@ const Hero = () => {
             variants={contentVariants}
             className="text-xl text-[#7b7b7b] mb-8"
           >
-            At Kerubin Capital we provide Business Consulting Services
+            At Kerubin Capital,  we believe that when women rise, 
             <br />
-            with a team of experts to help you build the future of your business
+            economies thrive.
+
           </motion.p>
 
           <motion.div
